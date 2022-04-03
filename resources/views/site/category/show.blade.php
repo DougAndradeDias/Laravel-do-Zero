@@ -1,0 +1,1 @@
+Esta é a pagina de todos os produtos da categoria {{$slug}}
